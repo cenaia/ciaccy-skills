@@ -1,3 +1,2 @@
-保存我本人生成的 skill，可能不好用。<br>
-skill列表：<br>
-langchain for codex
+该分支为 gpt-pro work 提交分支。
+gpt-pro 拥有沙盒，但无法长期保存文件，因此这里就是它的工作区。

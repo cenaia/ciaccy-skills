@@ -1,4 +1,0 @@
-interface:
-  display_name: "Codex LangChain Agent Helper"
-  short_description: "Beginner help for Codex + LangChain agents"
-  default_prompt: "Use $codex-langchain-agent-helper to build or edit a beginner-safe LangChain v1.2.7 agent with optional MCP."
